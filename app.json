@@ -1,0 +1,10 @@
+{
+  "name": "Go Me!",
+  "description": "Go Me!",
+  "keywords": [
+    "heroku",
+    "go"
+  ],
+  "website": "http://github.com/minac/go-me",
+  "repository": "http://github.com/minac/go-me"
+}
