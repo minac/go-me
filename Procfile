@@ -1,1 +1,1 @@
-web: go run go-me.go
+web: go-me

@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("I can do this. Really.")
+	fmt.Println("I can do this. Really. With an executable.")
 }
